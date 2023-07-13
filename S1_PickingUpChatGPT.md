@@ -73,14 +73,24 @@ Sample prompts:
 > Include 5 bullet points of ...
 
 > I am a digital marketer who is writing an ebook about social media strategy. This ebook is going to be 5000 words and directed towards makeketing manager roles within B2B companies. Write me a 5 section outline and give me 5 bullet points within each section that I can base my writing off on.
->>  "\<Select a section outline from above\>" I liked this proposed section, write me 500 words on this topic.\
+>>  "\<Select a section outline from above\>" I liked this proposed section, write me 500 words on this topic.
 
+## 5. Priming prompt (Write in style of this brand):
+Sample prompts:
 > "\<Catchy line 1\>"\
 "\<Catchy line 2\>"\
 "\<Catchy line 3\>" \
 These are the product description for the Liquid Death website. I want you to analyze the brand tone and tell me who this product is like marketed to.
 >> "\<Another company prooduct's Catchy line\>" This is a product description for a natural energy drink - Somi Energy. Rewrite with the style of Liquid Death.
 
+## 6. Fun prompts :
+Sample prompts:
+* Pineapple or Pizza
+
+
+## Extras:
+### Entertainment:
+* Write a rap battle between Barney the Dinasour vs Elmo about whether or not the pineapple belongs on the Pizza. Have a surprise third rapper come in at the end and win the battle.
 
 
 

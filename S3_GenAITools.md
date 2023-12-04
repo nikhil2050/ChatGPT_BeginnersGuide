@@ -1,6 +1,8 @@
 # Gen AI Tools
 Ref: https://adp-gptlearning.udemy.com/course/how-to-use-artificial-intelligence-a-guide-for-everyone/learn/lecture/40473832#overview
 
+Reference: https://medium.com/@AhmedF/beyond-chatgpt-14-game-changing-ai-tools-everyone-should-try-right-now-9d41099c689e
+
 ### ChatBots:
 * ChatGPT
 * Bard
